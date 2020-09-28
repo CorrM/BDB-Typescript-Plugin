@@ -7,6 +7,7 @@
         "strictNullChecks": true,
         "target": "ESNext",
         "outDir": "dist",
+        "outFile": "dist/PLUGIN_NAME.plugin.js",
         "module": "commonjs",
         "moduleResolution": "node",
         "sourceMap": false,
